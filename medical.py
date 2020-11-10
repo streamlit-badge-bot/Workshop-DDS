@@ -212,20 +212,5 @@ else:
 		st.balloons()
 
 
-# n = st.slider('Tamanho amostral', 0, 1000, 250)
-
-# bagunca = st.slider('Bagunça nos dados', 0, 1000, 200) /1000
-
-# from sklearn import datasets
-
-# X, Y = datasets.make_moons(n_samples = n, noise = bagunca)
-
-# import matplotlib.pyplot as plt
-
-# plt.scatter(X[:, 0], X[:, 1], c = Y, marker = 's', alpha = 0.5, cmap = 'Spectral')
-# plt.axis('off')
-# plt.show()
-# st.pyplot()
- 
 
    
