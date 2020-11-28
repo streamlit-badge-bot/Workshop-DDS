@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gitflai/workshop-dds/main/medical.py)
+
 ![alt text](https://github.com/gitflai/imagens/blob/main/Slide4.JPG?raw=true)
 # Repositório para os arquivos disponibilizados no Workshop FLAI Dominando Data Science
 
